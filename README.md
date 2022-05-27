@@ -1,4 +1,2 @@
 # Project-Ersatzteile
-must have c://Temp /n
-dependeces /n
-Access database engine 2016 64bit /n
+must have c://Temp and Access database engine 2016 64bit
